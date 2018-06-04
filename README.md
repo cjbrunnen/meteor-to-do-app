@@ -7,3 +7,5 @@ basic ToDo app in Meteor
 - Or just hide it from view.
 
 Basic styling, just to make it look pretty (and green).
+
+ ![Screenshot](./meteor-to-do-img.png) 
